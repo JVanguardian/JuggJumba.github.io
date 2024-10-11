@@ -6,7 +6,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 **_Jamie_**
 
-[Link to another page](https://www.google.com/).
+[WebPage I built from scratch](https://www.google.com/).
 
 There should be whitespace between paragraphs.
 
